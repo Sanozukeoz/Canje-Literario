@@ -20,7 +20,7 @@ In the output of this command/task, you'll find options to open the app in a
 - [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
 - [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
 
-You'll also find options to open the app's developer menu, reload the app, and more.
+You'll also find options to open the app's developer menu, reload the app, and more.holi :D
 
 #### Web
 
