@@ -23,7 +23,7 @@ In the output of this command/task, you'll find options to open the app in a
 You'll also find options to open the app's developer menu, reload the app, and more.holi :D
 
 #### Web
-
+ash
 Web previews will be started and managred automatically. Use the toolbar to manually refresh.
 
 You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
