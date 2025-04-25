@@ -18,7 +18,7 @@ export default CustomButton;
 
 const styles = StyleSheet.create({
   button: {
-    backgroundColor: '#e0e0e0',
+    backgroundColor: 'magenta',
     paddingVertical: 12,
     paddingHorizontal: 30,
     borderRadius: 6,
